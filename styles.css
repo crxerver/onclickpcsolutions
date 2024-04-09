@@ -317,7 +317,7 @@ html, body {
 
     #animate-h2 {
         white-space: nowrap; /* Prevent wrapping of text */
-        font-size: 26px;
+        font-size: 20px;
     }
     #animate-button{
        margin-top: 40px;
