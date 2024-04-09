@@ -323,7 +323,7 @@ html, body {
        margin-top: 40px;
     }
     .services-links {
-        padding: 0 40px; /* Equal left and right padding */
+        padding: 0 30px; /* Equal left and right padding */
         margin-top: 80px; /* Move content 80px down */
         display: flex; /* Use flexbox */
         justify-content: center; /* Center-align the content horizontally */
